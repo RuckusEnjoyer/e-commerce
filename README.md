@@ -22,6 +22,8 @@ To install this app, either clone my repo or fork it!
     
 Here is a handy-dandy walkthrough video about all of the routes you can hit in this repo:
 
+[![A video of how to use the application.](./assets/Capture.JPG)](https://app.screencastify.com/v3/watch/2zCYmln9YdlFt9uODDCY "How to Use")
+
 ## License
 
 This project is covered under the MIT license. For more information, visit the link below.
